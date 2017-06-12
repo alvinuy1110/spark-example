@@ -1,0 +1,6 @@
+{"name":"Michael", "address" :{"city":"Toronto", "province":"ON"}}
+{"name":"Andy", "age":30,"address" :{"city":"Montreal", "province":"QC"}}
+{"name":"Justin", "age":19,"address" :{"city":"Toronto", "province":"ON"}}
+{"name":"Alice", "age":29,"address" :{"city":"Edmonton", "province":"AB"}}
+{"name":"Kathy", "age":64,"address" :{"city":"Vancouver", "province":"BC"}}
+{"name":"Baby", "age":3 }
